@@ -25,7 +25,7 @@
 
 ###
 
-<h1 align="center">Greetings Traveller! check out my Repos & Socials</h1>
+<h1 align="center">Greetings Traveller! check out my Repos</h1>
 
 ###
 

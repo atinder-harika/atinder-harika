@@ -84,6 +84,7 @@
 </div>
 
 ###
+<h3>Open Source Contribution</h3>
 [![An image of @atinderharika's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atinderharika)](https://holopin.io/@atinderharika)
 ###
 

@@ -15,10 +15,6 @@
 
 ###
 
-<img align="left" height="150" src="https://media.licdn.com/dms/image/v2/D5616AQHPROkPLJJb-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704397660352?e=1732752000&v=beta&t=q9oySZaQVVAHz36GEl_OqjrWrHyfbdQbTAzLHPM09bs"  />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=atinder-harika.atinder-harika&left_text=Visitors"  />
 </div>

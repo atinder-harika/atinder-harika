@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">🚀 Atinder S. Hari: Full-Stack Engineer | Java, DevOps, & Generative AI</h2>
+<h2 align="center">🚀 Atinder S. Hari: Full-Stack, DevOps & Generative AI</h2>
 
 ###
 

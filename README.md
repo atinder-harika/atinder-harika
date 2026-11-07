@@ -5,7 +5,7 @@ Toronto · Sheridan '26 · Available January 2027
 
 ### Proof
 
-- 🏆 Won **Best Use of DigitalOcean** at Hackville
+- 🏆 Won **Best UI/UX**@Datathon, **Best Use of DigitalOcean**@Hackville
 - 🚀 Built and shipped [Chestify](https://chestify.atinder.dev), a live app that fact-checks short videos
 - 💼 3 developer internships: REST APIs and Python automation at Six Degrees Medical, React at Skill Squirrel, and Angular with Spring Boot at Samskrita Bharati
 

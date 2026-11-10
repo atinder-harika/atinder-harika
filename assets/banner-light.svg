@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Atinder Singh Hari. Backend developer who ships AI features.">
+<defs>
+<clipPath id="r"><rect width="1200" height="260" rx="14"/></clipPath>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#f6f8fa" stop-opacity="1"/><stop offset="1" stop-color="#f6f8fa" stop-opacity="0"/></linearGradient>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif;fill:#1f2328}
+.name{font-size:44px;font-weight:600}
+.role{font-size:22px;fill:#59636e}
+.meta{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;font-size:15px;fill:#59636e}
+.chip{font-size:14px;fill:#1f2328}
+</style>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1200" height="260" fill="#f6f8fa"/>
+<line x1="760" y1="0" x2="760" y2="260" stroke="#d8dee4"/><line x1="800" y1="0" x2="800" y2="260" stroke="#d8dee4"/><line x1="840" y1="0" x2="840" y2="260" stroke="#d8dee4"/><line x1="880" y1="0" x2="880" y2="260" stroke="#d8dee4"/><line x1="920" y1="0" x2="920" y2="260" stroke="#d8dee4"/><line x1="960" y1="0" x2="960" y2="260" stroke="#d8dee4"/><line x1="1000" y1="0" x2="1000" y2="260" stroke="#d8dee4"/><line x1="1040" y1="0" x2="1040" y2="260" stroke="#d8dee4"/><line x1="1080" y1="0" x2="1080" y2="260" stroke="#d8dee4"/><line x1="1120" y1="0" x2="1120" y2="260" stroke="#d8dee4"/><line x1="1160" y1="0" x2="1160" y2="260" stroke="#d8dee4"/><line x1="760" y1="20" x2="1200" y2="20" stroke="#d8dee4"/><line x1="760" y1="60" x2="1200" y2="60" stroke="#d8dee4"/><line x1="760" y1="100" x2="1200" y2="100" stroke="#d8dee4"/><line x1="760" y1="140" x2="1200" y2="140" stroke="#d8dee4"/><line x1="760" y1="180" x2="1200" y2="180" stroke="#d8dee4"/><line x1="760" y1="220" x2="1200" y2="220" stroke="#d8dee4"/>
+<rect x="760" y="0" width="240" height="260" fill="url(#fade)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="259" rx="14" fill="none" stroke="#d0d7de"/>
+<text x="64" y="86" class="name">Atinder Singh Hari</text>
+<text x="64" y="126" class="role">Backend developer who ships AI features</text>
+<text x="64" y="162" class="meta">Toronto · Sheridan '26 · Available January 2027</text>
+<rect x="64" y="190" width="52" height="30" rx="15" fill="#eaeef2" stroke="#d0d7de"/><text x="90" y="210" text-anchor="middle" class="chip">Java</text><rect x="126" y="190" width="113" height="30" rx="15" fill="#eaeef2" stroke="#d0d7de"/><text x="183" y="210" text-anchor="middle" class="chip">Spring Boot</text><rect x="249" y="190" width="104" height="30" rx="15" fill="#eaeef2" stroke="#d0d7de"/><text x="301" y="210" text-anchor="middle" class="chip">PostgreSQL</text><rect x="363" y="190" width="70" height="30" rx="15" fill="#eaeef2" stroke="#d0d7de"/><text x="398" y="210" text-anchor="middle" class="chip">Docker</text><rect x="443" y="190" width="44" height="30" rx="15" fill="#eaeef2" stroke="#d0d7de"/><text x="464" y="210" text-anchor="middle" class="chip">AWS</text><rect x="496" y="190" width="70" height="30" rx="15" fill="#eaeef2" stroke="#d0d7de"/><text x="531" y="210" text-anchor="middle" class="chip">Python</text>
+</svg>
